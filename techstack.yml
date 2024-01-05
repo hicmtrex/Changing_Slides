@@ -2,7 +2,7 @@ repo_name: hicmtrex/Changing_Slides
 report_id: c27e4e843c4ffad9d8c680afd629696c
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:43:44+00:00'
+timestamp: '2024-01-05T08:17:52+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Changing_Slides
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Changing_Slides
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,4 +37,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Changing_Slides
   detection_source: Repo Metadata
